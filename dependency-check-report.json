@@ -1,0 +1,267 @@
+{
+  "reportSchema" : "1.1",
+  "scanInfo" : {
+    "engineVersion" : "7.1.1",
+    "dataSource" : [ {
+      "name" : "NVD CVE Checked",
+      "timestamp" : "2024-10-30T08:12:37"
+    }, {
+      "name" : "NVD CVE Modified",
+      "timestamp" : "2024-10-30T06:00:01"
+    }, {
+      "name" : "VersionCheckOn",
+      "timestamp" : "2024-10-30T08:12:37"
+    } ]
+  },
+  "projectInfo" : {
+    "name" : "",
+    "reportDate" : "2024-10-30T12:12:51.807677794Z",
+    "credits" : {
+      "NVD" : "This report contains data retrieved from the National Vulnerability Database: http://nvd.nist.gov",
+      "NPM" : "This report may contain data retrieved from the NPM Public Advisories: https://www.npmjs.com/advisories",
+      "RETIREJS" : "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/",
+      "OSSINDEX" : "This report may contain data retrieved from the Sonatype OSS Index: https://ossindex.sonatype.org"
+    }
+  },
+  "dependencies" : [ {
+    "isVirtual" : false,
+    "fileName" : ".eslintrc.js",
+    "filePath" : "/home/project/juice-shop/.eslintrc.js",
+    "md5" : "2648568c3391b0a04cf7c201071d4bb2",
+    "sha1" : "9b7d431ad9f882d00743d1350a9f53430998a7fe",
+    "sha256" : "1eeb2fcfd2e5b2f8a732e537cf171beaaec50935d39af6b475f72dae3d49dbb3",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : ".eslintrc.js",
+    "filePath" : "/home/project/juice-shop/frontend/.eslintrc.js",
+    "md5" : "1649013ed8c15a9c9e35ca81daf1ffc2",
+    "sha1" : "0c51dfd0dc8f10239a21a4f33fc3dd5f9d00baaa",
+    "sha256" : "7c983f214245bbf4417395e5fa24de642faee1590147a070cb9b8236065cf723",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : ".stylelintrc.js",
+    "filePath" : "/home/project/juice-shop/frontend/.stylelintrc.js",
+    "md5" : "7435b09b0bc319fbb37951825611627a",
+    "sha1" : "22318f1f8fda5c3f19dffb9f386ac18ab7261885",
+    "sha256" : "2ba585515745ebe1ea0ae243cea2c547242cfa931d4a961939e5d0d7790364f8",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "CopyShader.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/CopyShader.js",
+    "md5" : "a916c277fc96e190cf05796bcbdadf32",
+    "sha1" : "f40cca39f00230b6ae3517dec905c175780de19b",
+    "sha256" : "186fb17ba003468db8620413b36b2e0e23cc414d66177aec1f2344465f29d067",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "EffectComposer.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/EffectComposer.js",
+    "md5" : "8e5533e5f0a641c5c147e898c45c4aed",
+    "sha1" : "03911201926226dd3d93a9e2198e09b7166ff4e4",
+    "sha256" : "1404a0721b516369bcead64277872bc6a7bddf3995836189ec936669fc3984bf",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "Gruntfile.js",
+    "filePath" : "/home/project/juice-shop/Gruntfile.js",
+    "md5" : "5673134d202768cc052dde582f852ab8",
+    "sha1" : "05110f03019c132232f5c53e3bbd1a116a0da07a",
+    "sha256" : "95909d231f524943e5aa66ccdbdd649a5bc2e4ca328a3066aaf2ce6f4828d436",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "MaskPass.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/MaskPass.js",
+    "md5" : "514c8cafad37229e0b06d0af42c58388",
+    "sha1" : "696940a443227c2f65b300f1366ffada0010d966",
+    "sha256" : "af1fa148f551c698fce232dae34bd81bf3aae4508756d1b652b0c4e64495ce84",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "OrbitControls.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/OrbitControls.js",
+    "md5" : "99f477b943798df6c123a5d1ed28b1c6",
+    "sha1" : "8ce350cca950f1c8fc7191bef2d9bac5127aedc8",
+    "sha256" : "91cb9aaccc9c8d1166273839c71fdbc3cbf66b0fc712c142face5b6d1a156e23",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "RenderPass.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/RenderPass.js",
+    "md5" : "070093ec672510bbc5dc8c9dcc62f0f3",
+    "sha1" : "efa768b4e7ce3210fe4b27e2573c2c08173115b2",
+    "sha256" : "dade5aed5af70e3dff988d352263237dd0b364680191f2c7f8318c1f1d3fe0ec",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "ShaderPass.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/ShaderPass.js",
+    "md5" : "ce013a7dc6f5c88a6db1c7f2845d2dc9",
+    "sha1" : "78ab9de81c52e97c6ebaec07d963ad106648fbbd",
+    "sha256" : "3ea55f893186cf80be6814381e5b65d828b2be60f14d7c83df6e387e4652c56f",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "dat.gui.min.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/dat.gui.min.js",
+    "md5" : "af36d65ba1df03365da03658de64dbcc",
+    "sha1" : "67de6b39dcaeb4996b10e95e2d3b3248d19378ca",
+    "sha256" : "25c1dee52120779138f4498bb4544e967fa712eae9f17b7353a729f34dd04d1b",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "invalidTypeForClient.exe",
+    "filePath" : "/home/project/juice-shop/test/files/invalidTypeForClient.exe",
+    "md5" : "2319ac34f4848755a639fd524038dfd3",
+    "sha1" : "3082a2f97b22b4602e8d39083eef2ca0f7e54c4c",
+    "sha256" : "c90232586b801f9558a76f2f963eccd831d9fe6775e4c8f1446b2331aa2132f2",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ {
+        "type" : "vendor",
+        "confidence" : "HIGH",
+        "source" : "file",
+        "name" : "name",
+        "value" : "invalidTypeForClient"
+      } ],
+      "productEvidence" : [ {
+        "type" : "product",
+        "confidence" : "HIGH",
+        "source" : "file",
+        "name" : "name",
+        "value" : "invalidTypeForClient"
+      } ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "karma.conf.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/karma.conf.js",
+    "md5" : "7895238099be02ee7646ad57c8de8f4a",
+    "sha1" : "ff63111328ec53d8a2560ad46695b356d89d7e68",
+    "sha256" : "754964b5f38c3fd964c7c0459727788a1ed0f224d2e17e9db6f99add66309bca",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "package.json",
+    "filePath" : "/home/project/juice-shop/frontend/package.json",
+    "md5" : "ef7566922ebe1507e819a633e35184e2",
+    "sha1" : "f87d8bb9e4b4b0809f65bdc28466db6b739ca5ea",
+    "sha256" : "700267b37b76023fe2fb2d015ec2190f81693ad5fa0fe220c9095a2d5461dc24",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "package.json",
+    "filePath" : "/home/project/juice-shop/package.json",
+    "md5" : "6e2a0e9057643cae655f7e8708c66fad",
+    "sha1" : "4ead717e15bad7fc923c9e7c1d2d8a0739320d0e",
+    "sha256" : "a5c0b511f2e24ea48998361ee9a26e1edac3b53bcba423657c0a3cb5efb42453",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "stats.min.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/stats.min.js",
+    "md5" : "b4d8a0e448a30774be308d1f66d40477",
+    "sha1" : "16aa2a106bdb3cddf7fcbfcabd2299636400b07a",
+    "sha256" : "e6d05a60a1e79aef5625e42c3880b27f74359493dea3abbe25a4155c77ac64e5",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "themes.js",
+    "filePath" : "/home/project/juice-shop/views/themes/themes.js",
+    "md5" : "306cbc56c65f481bbd5a4c3e5cadf75b",
+    "sha1" : "332efa670143d533540e024181d61fde7b740e94",
+    "sha256" : "8dfb79d95d73d3f7704a16d7bfdd98b6de960b691e690b2e98036191fea2ab1a",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "three.js",
+    "filePath" : "/home/project/juice-shop/frontend/src/assets/private/three.js",
+    "md5" : "cebcff0ea4b0d4279a6852c4bf7b5ef9",
+    "sha1" : "d83bc1497df53ca9f341213409bfc934174fba8a",
+    "sha256" : "20c4037170d817b678a2d4024d5858336f2f9bb807fc91d352b83f00e145c368",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  }, {
+    "isVirtual" : false,
+    "fileName" : "webpack.angular.js",
+    "filePath" : "/home/project/juice-shop/frontend/webpack.angular.js",
+    "md5" : "90242640ec6a07ef6dea1d6089f692fc",
+    "sha1" : "dc039030b7676690b9749a296bc21b8e18910d91",
+    "sha256" : "c5f6a29270db8717c28c94577665514c4896e395dca8382e23372f38cbdd4d50",
+    "evidenceCollected" : {
+      "vendorEvidence" : [ ],
+      "productEvidence" : [ ],
+      "versionEvidence" : [ ]
+    }
+  } ]
+}

@@ -1,0 +1,8 @@
+    1  wget -O dependency-check.zip https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0267EN-SkillsNetwork/labs/module2/data/dependency-check.zip && unzip dependency-check.zip && chmod +x dependency-check/bin/dependency-check.sh && sudo echo "alias dependency-check=$(pwd)/dependency-check/bin/dependency-check.sh" >> ~/.bashrc && source ~/.bashrc
+    2  git clone https://github.com/maciel-j/juice-shop.git
+    3  dependency-check -f JSON --prettyPrint --scan juice-shop
+    4  jq '.dependencies[].filePath' dependency-check-report.json
+    5  dependency-check --scan juice-shop
+    6  cd juice-shop/
+    7  git config --global user.email "jose.s.maciel@outlook.com" && git config --global user.name "maciel-j" && git config --list
+    8  history >> history.txt && MSG="FEAT: sca scanning 2024.10.29" && git add . && git commit -m "${MSG}"&& git push
